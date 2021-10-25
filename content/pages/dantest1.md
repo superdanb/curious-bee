@@ -25,7 +25,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - type: Button
-        label: Learn Moresdfsdf
+        label: Learn More
         url: /
         style: secondary
     feature:
