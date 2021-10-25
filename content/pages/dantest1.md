@@ -20,7 +20,7 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Get Startedfsdfdsfsdfdsad
+        label: Get Started
         url: /
         style: primary
         elementId: hero-main-button
